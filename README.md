@@ -31,7 +31,7 @@ Marital_Status: Marital Status
 ProductCategory: Product Category (Masked)
 
 Purchase: Purchase Amount
-## Key Highlights:
+# Key Highlights:
 #### Data Cleaning and Exploration:
 1. Checked dataset structure and characteristics.
 2. Detected null values and outliers using boxplot, describe method, and isnull function.
@@ -49,3 +49,6 @@ Purchase: Purchase Amount
 #### Analysis by Marital Status and Age:
 1. Segmented customers based on marital status and age groups.
 2. Analyzed spending patterns for married vs. unmarried customers and different age groups.
+
+#### Recommendations:
+1. Providing recommendations based on the insights gained from the analysis.
