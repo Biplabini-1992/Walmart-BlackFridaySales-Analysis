@@ -36,6 +36,14 @@ Purchase: Purchase Amount
 1. Checked dataset structure and characteristics.
 2. Detected null values and outliers using boxplot, describe method, and isnull function.
    
+#### Non-Graphical Analysis
+1. Value Counts: Calculated Frequency counts of unique values in categorical variables.
+2. Unique Attributes: Identified of unique attributes across all variables.
+
+#### Visual Analysis
+1. Univariate Analysis: Used distplot, countplot, and histograms for continuous variables, and boxplot for categorical variables.
+2. Bivariate Analysis: Plotted Heatmaps and pairplots for exploring correlations among variables.
+   
 #### Data Exploration:
 1. Calculated the average amount spent per transaction for male and female customers.
 2. Inferred conclusions based on average spending for male and female customers.
