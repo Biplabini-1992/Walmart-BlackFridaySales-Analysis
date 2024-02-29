@@ -9,7 +9,7 @@ Walmart is an American multinational retail corporation that operates a chain of
 The company collected the transactional data of customers who purchased products from the Walmart Stores during Black Friday.
 
 ### Source:
-Please check the dataset at: "Dataset Link"
+Please check the dataset at: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
 
 ### Feature Information:
 User_ID: User ID
